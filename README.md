@@ -47,28 +47,6 @@ IC-Map (Inclusive Chile Map) es una plataforma web y móvil orientada a personas
 <br><br>
 <a href="https://github.com/MatiasRai/CapstoneGroup">Repositorio</a>
 </td>
-
-<td width="50%">
-<h4>Sistema de Notificaciones Android</h4>
-Proyecto orientado a notificaciones push y comunicación cliente-servidor.
-<br><br>
-<a href="https://github.com/unsimpledev/ProyectoNotificaciones">Repositorio</a>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h4>Aplicación tipo ChatGPT</h4>
-Integración de API para generación dinámica de contenido.
-<br><br>
-<a href="https://github.com/unsimpledev/MiChatGPT">Repositorio</a>
-</td>
-
-<td width="50%">
-<h4>Traductor con API</h4>
-Aplicación web con consumo de API externa y procesamiento de respuestas dinámicas.
-<br><br>
-<a href="https://github.com/unsimpledev/MiTraductor">Repositorio</a>
 </td>
 </tr>
 </table>
