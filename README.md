@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+<h1 align="center">Hola 👋  soy Miguel Conejeros ✨ </h1> 
 
 <p align="left">
 <a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/miguel-conejeros/"/></a>
@@ -13,7 +13,7 @@
 Full Stack Developer | Python & Django
 Experiencia en desarrollo de aplicaciones web, modelamiento de bases de datos y construcción de interfaces frontend.
 Interesado en arquitectura de software, buenas prácticas y mejora continua.
-📫 Contacto: **conejerosmiguel3@gmail.com**
+📫 Contacto: *conejerosmiguel3@gmail.com*
 <!--Intro end-->
   </p>
 <br>
