@@ -42,10 +42,10 @@
 <table>
 <tr>
 <td width="50%">
-<h4>Sistema SMS Gateway</h4>
-Aplicación para envío automatizado de mensajes con integración backend y base de datos.
+<h4>IC-Map: Plataforma Inclusiva de Rutas Accesibles en Chile</h4>
+IC-Map (Inclusive Chile Map) es una plataforma web y móvil orientada a personas con discapacidad que buscan rutas accesibles, servicios adaptados y lugares seguros dentro del territorio chileno
 <br><br>
-<a href="https://github.com/unsimpledev/ProyectoSMSGateway">Repositorio</a>
+<a href="https://github.com/MatiasRai/CapstoneGroup">Repositorio</a>
 </td>
 
 <td width="50%">
