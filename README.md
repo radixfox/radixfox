@@ -1,119 +1,84 @@
-<h1 align="center">Hola 👋  soy Miguel Conejeros ✨ </h1> 
+<h1 align="center">Hola 👋 soy Miguel Conejeros 🚀</h1>
 
-<p align="left">
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/miguel-conejeros/"/></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="conejerosmiguel3@gmail.com"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
-<p align="left">
-🎓 INGENIERO EN INFORMÁTICA
-Full Stack Developer | Python & Django
-Experiencia en desarrollo de aplicaciones web, modelamiento de bases de datos y construcción de interfaces frontend.
-Interesado en arquitectura de software, buenas prácticas y mejora continua.
-📫 Contacto: *conejerosmiguel3@gmail.com*
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,python,nodejs,mysql,sqlite,git,github,vscodeps&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
-
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-
-
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+<a href="https://www.linkedin.com/in/miguel-conejeros/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:conejerosmiguel3@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+---
+
+<h2>👨🏻‍💻 Sobre mí</h2>
+
+<p align="left">
+🎓 Ingeniero en Informática titulado en Duoc UC.<br><br>
+
+💻 Desarrollador Full Stack con experiencia en desarrollo de aplicaciones web utilizando <strong>Python y Django</strong> en el backend, y <strong>HTML, CSS y JavaScript</strong> en el frontend.<br><br>
+
+🗄️ Experiencia en modelamiento de bases de datos relacionales, consultas SQL, diseño de APIs REST y estructuración de proyectos bajo arquitectura MVC.<br><br>
+
+⚙️ Conocimientos básicos en <strong>React y PHP</strong>, utilizados en proyectos académicos y durante proceso de aprendizaje.<br><br>
+
+🚀 Enfocado en mejorar continuamente mis habilidades técnicas, aplicar buenas prácticas de desarrollo y seguir creciendo profesionalmente en el área de ingeniería de software.
+</p>
+
+---
+
+<h2>🛠️ Tecnologías y herramientas</h2>
+
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,php,mysql,sqlite,git,github,vscode&perline=6" />
+</a>
+</p>
+
+---
+
+<h2>📂 Proyectos Destacados</h2>
+
+<table>
+<tr>
+<td width="50%">
+<h4>Sistema SMS Gateway</h4>
+Aplicación para envío automatizado de mensajes con integración backend y base de datos.
+<br><br>
+<a href="https://github.com/unsimpledev/ProyectoSMSGateway">Repositorio</a>
 </td>
 
-<td width="40%" align="center">
+<td width="50%">
+<h4>Sistema de Notificaciones Android</h4>
+Proyecto orientado a notificaciones push y comunicación cliente-servidor.
+<br><br>
+<a href="https://github.com/unsimpledev/ProyectoNotificaciones">Repositorio</a>
+</td>
+</tr>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<tr>
+<td width="50%">
+<h4>Aplicación tipo ChatGPT</h4>
+Integración de API para generación dinámica de contenido.
+<br><br>
+<a href="https://github.com/unsimpledev/MiChatGPT">Repositorio</a>
+</td>
 
-  </td>
+<td width="50%">
+<h4>Traductor con API</h4>
+Aplicación web con consumo de API externa y procesamiento de respuestas dinámicas.
+<br><br>
+<a href="https://github.com/unsimpledev/MiTraductor">Repositorio</a>
+</td>
 </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+---
 
+<h2>📊 GitHub Stats</h2>
 
-</p>        
-<!--- stats (end) -->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&layout=compact&theme=dark" />
+</p>
