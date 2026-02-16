@@ -20,7 +20,7 @@
 
 🗄️ Experiencia en modelamiento de bases de datos relacionales, consultas SQL, diseño de APIs REST y estructuración de proyectos bajo arquitectura MVC.<br><br>
 
-⚙️ Conocimientos básicos en <strong>React y PHP</strong>, utilizados en proyectos académicos y durante proceso de aprendizaje.<br><br>
+⚙️ Conocimientos básicos en <strong>React y PHP</strong>, utilizados durante mi practica realizada.<br><br>
 
 🚀 Enfocado en mejorar continuamente mis habilidades técnicas, aplicar buenas prácticas de desarrollo y seguir creciendo profesionalmente en el área de ingeniería de software.
 </p>
