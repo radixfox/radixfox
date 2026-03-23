@@ -56,7 +56,6 @@ IC-Map (Inclusive Chile Map) es una plataforma web y móvil orientada a personas
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&layout=compact&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&layout=compact&theme=dark" width="48%" />
 </p>
